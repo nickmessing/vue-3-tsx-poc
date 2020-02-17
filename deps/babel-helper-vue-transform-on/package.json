@@ -1,0 +1,6 @@
+{
+  "name": "@vue/babel-helper-vue-transform-on",
+  "version": "1.0.0",
+  "module": "index.js",
+  "license": "MIT"
+}

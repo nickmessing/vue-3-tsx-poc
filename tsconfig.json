@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "lib": [
+      "esnext",
+      "dom"
+    ],
+    "target": "esnext",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "outDir": "./build",
+    "sourceMap": true,
+    "resolveJsonModule": true,
+    "strictNullChecks": true,
+    "noImplicitAny": true,
+    "jsx": "preserve",
+    "types": [
+      "@vue/runtime-dom"
+    ]
+  },
+  "include" : ["./src"]
+}
